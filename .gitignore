@@ -29,6 +29,12 @@ target/
 *.tar.gz
 *.rar
 
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
 # JVM crash logs
 hs_err_pid*
 replay_pid*

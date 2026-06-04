@@ -1,5 +1,7 @@
 # AI-Driven Public Grievance and Resolution Time Tracking System
 
+AI-powered grievance management system with complaint classification, priority prediction, SLA tracking, and role-based dashboards.
+
 ## Project Overview
 
 The AI-Driven Public Grievance and Resolution Time Tracking System is an intelligent platform designed to automate and improve the public grievance handling process. The system enables users to submit complaints digitally, track their status in real time, and receive updates throughout the complaint lifecycle.
