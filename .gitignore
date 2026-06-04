@@ -1,0 +1,60 @@
+# =========================
+# JAVA / SPRING BOOT
+# =========================
+target/
+*.class
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# =========================
+# REACT FRONTEND
+# =========================
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Yarn / npm logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# =========================
+# ENV FILES
+# =========================
+.env
+.env.*
+frontend/.env
+frontend/.env.*
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1001 @@
+text,department,priority,resolutionDays
+drainage blockage,Sanitation,LOW,6
+dustbin not cleaned,Sanitation,LOW,6
+miscellaneous complaint,General,MEDIUM,4
+garbage not collected,Sanitation,LOW,6
+tap not working,Water,MEDIUM,4
+cracks on street,Road,LOW,6
+road needs repair,Road,LOW,6
+voltage fluctuation,Electrical,MEDIUM,4
+road needs repair,Road,MEDIUM,4
+public problem,General,LOW,6
+broken sidewalk,Road,LOW,6
+cracks on street,Road,MEDIUM,4
+voltage fluctuation,Electrical,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+wire sparking issue,Electrical,LOW,6
+need help regarding complaint,General,LOW,6
+transformer issue,Electrical,MEDIUM,4
+miscellaneous complaint,General,LOW,6
+garbage not collected,Sanitation,MEDIUM,4
+transformer issue,Electrical,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+potholes on road,Road,MEDIUM,4
+tap not working,Water,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+electric pole damaged,Electrical,MEDIUM,4
+cracks on street,Road,MEDIUM,4
+low water pressure,Water,MEDIUM,4
+tap not working,Water,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+dustbin not cleaned,Sanitation,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+road water logging,Road,MEDIUM,4
+dustbin not cleaned,Sanitation,MEDIUM,4
+tap not working,Water,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+wire sparking issue,Electrical,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+garbage not collected,Sanitation,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+wire sparking issue,Electrical,MEDIUM,4
+garbage not collected,Sanitation,LOW,6
+garbage not collected,Sanitation,MEDIUM,4
+street light not working,Electrical,MEDIUM,4
+general inquiry,General,LOW,6
+wire sparking issue,Electrical,MEDIUM,4
+road needs repair,Road,LOW,6
+road damaged badly,Road,MEDIUM,4
+street light not working,Electrical,MEDIUM,4
+electric pole damaged,Electrical,MEDIUM,4
+no water supply,Water,MEDIUM,4
+water leakage in street,Water,HIGH,2
+road needs repair,Road,LOW,6
+road water logging,Road,LOW,6
+waste overflow,Sanitation,HIGH,2
+water leakage in street,Water,HIGH,2
+broken sidewalk,Road,LOW,6
+miscellaneous complaint,General,LOW,6
+road needs repair,Road,LOW,6
+low water pressure,Water,LOW,6
+general inquiry,General,LOW,6
+road needs repair,Road,MEDIUM,4
+cracks on street,Road,LOW,6
+power failure in area,Electrical,HIGH,2
+tap not working,Water,MEDIUM,4
+miscellaneous complaint,General,LOW,6
+power failure in area,Electrical,HIGH,2
+road damaged badly,Road,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+public problem,General,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+broken sidewalk,Road,MEDIUM,4
+street light not working,Electrical,MEDIUM,4
+road needs repair,Road,MEDIUM,4
+broken sidewalk,Road,LOW,6
+tap not working,Water,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+road needs repair,Road,MEDIUM,4
+tap not working,Water,MEDIUM,4
+public problem,General,MEDIUM,4
+need help regarding complaint,General,LOW,6
+road damaged badly,Road,MEDIUM,4
+issue not categorized,General,LOW,6
+water overflow from tank,Water,HIGH,2
+miscellaneous complaint,General,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+transformer issue,Electrical,LOW,6
+bad smell in area,Sanitation,LOW,6
+miscellaneous complaint,General,LOW,6
+pipe broken near house,Water,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+pipe broken near house,Water,LOW,6
+road damaged badly,Road,MEDIUM,4
+road needs repair,Road,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+need help regarding complaint,General,LOW,6
+miscellaneous complaint,General,LOW,6
+power failure in area,Electrical,HIGH,2
+potholes on road,Road,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+drainage blockage,Sanitation,LOW,6
+issue not categorized,General,MEDIUM,4
+water leakage in street,Water,HIGH,2
+public problem,General,LOW,6
+low water pressure,Water,MEDIUM,4
+no water supply,Water,LOW,6
+potholes on road,Road,LOW,6
+water leakage in street,Water,HIGH,2
+pipe broken near house,Water,LOW,6
+wire sparking issue,Electrical,MEDIUM,4
+electric pole damaged,Electrical,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+electric pole damaged,Electrical,MEDIUM,4
+dustbin not cleaned,Sanitation,MEDIUM,4
+issue not categorized,General,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+public problem,General,MEDIUM,4
+cracks on street,Road,MEDIUM,4
+garbage not collected,Sanitation,MEDIUM,4
+water leakage in street,Water,HIGH,2
+low water pressure,Water,LOW,6
+garbage not collected,Sanitation,LOW,6
+low water pressure,Water,MEDIUM,4
+street light not working,Electrical,MEDIUM,4
+unknown issue,General,LOW,6
+road water logging,Road,LOW,6
+street light not working,Electrical,MEDIUM,4
+issue not categorized,General,LOW,6
+garbage not collected,Sanitation,LOW,6
+public problem,General,MEDIUM,4
+water leakage in street,Water,HIGH,2
+need help regarding complaint,General,LOW,6
+garbage not collected,Sanitation,LOW,6
+water overflow from tank,Water,HIGH,2
+sewage overflow,Sanitation,HIGH,2
+issue not categorized,General,MEDIUM,4
+issue not categorized,General,LOW,6
+street light not working,Electrical,MEDIUM,4
+need help regarding complaint,General,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+general inquiry,General,LOW,6
+road water logging,Road,MEDIUM,4
+dustbin not cleaned,Sanitation,MEDIUM,4
+no water supply,Water,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+broken sidewalk,Road,MEDIUM,4
+low water pressure,Water,LOW,6
+power failure in area,Electrical,HIGH,2
+street light not working,Electrical,MEDIUM,4
+potholes on road,Road,LOW,6
+tap not working,Water,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+issue not categorized,General,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+electric pole damaged,Electrical,MEDIUM,4
+unknown issue,General,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+water overflow from tank,Water,HIGH,2
+no water supply,Water,LOW,6
+water leakage in street,Water,HIGH,2
+water overflow from tank,Water,HIGH,2
+garbage not collected,Sanitation,MEDIUM,4
+tap not working,Water,MEDIUM,4
+potholes on road,Road,MEDIUM,4
+road water logging,Road,MEDIUM,4
+transformer issue,Electrical,LOW,6
+unknown issue,General,MEDIUM,4
+public problem,General,LOW,6
+power failure in area,Electrical,HIGH,2
+transformer issue,Electrical,LOW,6
+public problem,General,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+road needs repair,Road,LOW,6
+road damaged badly,Road,MEDIUM,4
+tap not working,Water,MEDIUM,4
+need help regarding complaint,General,MEDIUM,4
+road water logging,Road,MEDIUM,4
+drainage blockage,Sanitation,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+no water supply,Water,LOW,6
+water leakage in street,Water,HIGH,2
+waste overflow,Sanitation,HIGH,2
+need help regarding complaint,General,MEDIUM,4
+tap not working,Water,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+general inquiry,General,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+broken sidewalk,Road,LOW,6
+need help regarding complaint,General,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+tap not working,Water,MEDIUM,4
+electric pole damaged,Electrical,MEDIUM,4
+potholes on road,Road,MEDIUM,4
+pipe broken near house,Water,MEDIUM,4
+low water pressure,Water,LOW,6
+tap not working,Water,MEDIUM,4
+issue not categorized,General,MEDIUM,4
+general inquiry,General,MEDIUM,4
+voltage fluctuation,Electrical,MEDIUM,4
+tap not working,Water,MEDIUM,4
+wire sparking issue,Electrical,LOW,6
+transformer issue,Electrical,LOW,6
+road water logging,Road,LOW,6
+waste overflow,Sanitation,HIGH,2
+miscellaneous complaint,General,LOW,6
+water overflow from tank,Water,HIGH,2
+potholes on road,Road,LOW,6
+sewage overflow,Sanitation,HIGH,2
+road water logging,Road,LOW,6
+cracks on street,Road,LOW,6
+miscellaneous complaint,General,LOW,6
+miscellaneous complaint,General,MEDIUM,4
+water leakage in street,Water,HIGH,2
+garbage not collected,Sanitation,LOW,6
+voltage fluctuation,Electrical,MEDIUM,4
+potholes on road,Road,LOW,6
+road water logging,Road,MEDIUM,4
+garbage not collected,Sanitation,MEDIUM,4
+general inquiry,General,MEDIUM,4
+wire sparking issue,Electrical,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+waste overflow,Sanitation,HIGH,2
+dustbin not cleaned,Sanitation,LOW,6
+need help regarding complaint,General,MEDIUM,4
+drainage blockage,Sanitation,LOW,6
+no water supply,Water,MEDIUM,4
+general inquiry,General,LOW,6
+need help regarding complaint,General,LOW,6
+road water logging,Road,LOW,6
+potholes on road,Road,LOW,6
+miscellaneous complaint,General,LOW,6
+road damaged badly,Road,MEDIUM,4
+issue not categorized,General,LOW,6
+public problem,General,LOW,6
+no water supply,Water,MEDIUM,4
+transformer issue,Electrical,LOW,6
+cracks on street,Road,LOW,6
+low water pressure,Water,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+unknown issue,General,MEDIUM,4
+drainage blockage,Sanitation,MEDIUM,4
+voltage fluctuation,Electrical,LOW,6
+garbage not collected,Sanitation,MEDIUM,4
+transformer issue,Electrical,LOW,6
+garbage not collected,Sanitation,LOW,6
+water leakage in street,Water,HIGH,2
+miscellaneous complaint,General,MEDIUM,4
+road water logging,Road,LOW,6
+street light not working,Electrical,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+dustbin not cleaned,Sanitation,MEDIUM,4
+no water supply,Water,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+bad smell in area,Sanitation,MEDIUM,4
+road water logging,Road,MEDIUM,4
+issue not categorized,General,MEDIUM,4
+need help regarding complaint,General,MEDIUM,4
+low water pressure,Water,LOW,6
+voltage fluctuation,Electrical,MEDIUM,4
+issue not categorized,General,LOW,6
+sewage overflow,Sanitation,HIGH,2
+issue not categorized,General,MEDIUM,4
+unknown issue,General,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+pipe broken near house,Water,MEDIUM,4
+transformer issue,Electrical,LOW,6
+miscellaneous complaint,General,MEDIUM,4
+street light not working,Electrical,MEDIUM,4
+cracks on street,Road,LOW,6
+need help regarding complaint,General,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+need help regarding complaint,General,LOW,6
+general inquiry,General,LOW,6
+need help regarding complaint,General,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+general inquiry,General,LOW,6
+road needs repair,Road,LOW,6
+pipe broken near house,Water,LOW,6
+voltage fluctuation,Electrical,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+transformer issue,Electrical,LOW,6
+sewage overflow,Sanitation,HIGH,2
+electric pole damaged,Electrical,MEDIUM,4
+drainage blockage,Sanitation,MEDIUM,4
+water leakage in street,Water,HIGH,2
+voltage fluctuation,Electrical,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+sewage overflow,Sanitation,HIGH,2
+potholes on road,Road,LOW,6
+voltage fluctuation,Electrical,LOW,6
+cracks on street,Road,LOW,6
+issue not categorized,General,LOW,6
+miscellaneous complaint,General,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+pipe broken near house,Water,LOW,6
+water overflow from tank,Water,HIGH,2
+sewage overflow,Sanitation,HIGH,2
+bad smell in area,Sanitation,LOW,6
+tap not working,Water,MEDIUM,4
+general inquiry,General,LOW,6
+dustbin not cleaned,Sanitation,LOW,6
+road damaged badly,Road,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+issue not categorized,General,LOW,6
+pipe broken near house,Water,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+miscellaneous complaint,General,MEDIUM,4
+need help regarding complaint,General,MEDIUM,4
+potholes on road,Road,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+low water pressure,Water,LOW,6
+water leakage in street,Water,HIGH,2
+general inquiry,General,LOW,6
+public problem,General,MEDIUM,4
+road needs repair,Road,LOW,6
+public problem,General,LOW,6
+drainage blockage,Sanitation,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+bad smell in area,Sanitation,MEDIUM,4
+electric pole damaged,Electrical,MEDIUM,4
+street light not working,Electrical,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+transformer issue,Electrical,LOW,6
+no water supply,Water,LOW,6
+need help regarding complaint,General,MEDIUM,4
+broken sidewalk,Road,MEDIUM,4
+garbage not collected,Sanitation,LOW,6
+dustbin not cleaned,Sanitation,MEDIUM,4
+miscellaneous complaint,General,LOW,6
+wire sparking issue,Electrical,MEDIUM,4
+wire sparking issue,Electrical,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+voltage fluctuation,Electrical,MEDIUM,4
+water leakage in street,Water,HIGH,2
+electric pole damaged,Electrical,MEDIUM,4
+drainage blockage,Sanitation,MEDIUM,4
+pipe broken near house,Water,LOW,6
+tap not working,Water,MEDIUM,4
+wire sparking issue,Electrical,MEDIUM,4
+wire sparking issue,Electrical,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+garbage not collected,Sanitation,LOW,6
+road damaged badly,Road,MEDIUM,4
+transformer issue,Electrical,MEDIUM,4
+general inquiry,General,MEDIUM,4
+voltage fluctuation,Electrical,LOW,6
+drainage blockage,Sanitation,MEDIUM,4
+broken sidewalk,Road,LOW,6
+power failure in area,Electrical,HIGH,2
+voltage fluctuation,Electrical,MEDIUM,4
+water leakage in street,Water,HIGH,2
+drainage blockage,Sanitation,LOW,6
+wire sparking issue,Electrical,MEDIUM,4
+drainage blockage,Sanitation,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+need help regarding complaint,General,LOW,6
+water leakage in street,Water,HIGH,2
+sewage overflow,Sanitation,HIGH,2
+road needs repair,Road,LOW,6
+tap not working,Water,MEDIUM,4
+public problem,General,MEDIUM,4
+potholes on road,Road,LOW,6
+general inquiry,General,LOW,6
+tap not working,Water,MEDIUM,4
+pipe broken near house,Water,MEDIUM,4
+drainage blockage,Sanitation,MEDIUM,4
+transformer issue,Electrical,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+road needs repair,Road,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+dustbin not cleaned,Sanitation,LOW,6
+road damaged badly,Road,MEDIUM,4
+dustbin not cleaned,Sanitation,LOW,6
+drainage blockage,Sanitation,MEDIUM,4
+drainage blockage,Sanitation,MEDIUM,4
+voltage fluctuation,Electrical,MEDIUM,4
+pipe broken near house,Water,MEDIUM,4
+issue not categorized,General,LOW,6
+voltage fluctuation,Electrical,LOW,6
+water leakage in street,Water,HIGH,2
+cracks on street,Road,LOW,6
+road damaged badly,Road,MEDIUM,4
+broken sidewalk,Road,LOW,6
+pipe broken near house,Water,MEDIUM,4
+need help regarding complaint,General,LOW,6
+tap not working,Water,MEDIUM,4
+issue not categorized,General,LOW,6
+potholes on road,Road,LOW,6
+low water pressure,Water,LOW,6
+issue not categorized,General,LOW,6
+broken sidewalk,Road,LOW,6
+broken sidewalk,Road,LOW,6
+no water supply,Water,LOW,6
+garbage not collected,Sanitation,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+pipe broken near house,Water,LOW,6
+water overflow from tank,Water,HIGH,2
+road water logging,Road,LOW,6
+road water logging,Road,MEDIUM,4
+broken sidewalk,Road,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+road damaged badly,Road,MEDIUM,4
+road water logging,Road,LOW,6
+street light not working,Electrical,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+road water logging,Road,MEDIUM,4
+general inquiry,General,MEDIUM,4
+water leakage in street,Water,HIGH,2
+road needs repair,Road,MEDIUM,4
+drainage blockage,Sanitation,LOW,6
+tap not working,Water,MEDIUM,4
+no water supply,Water,LOW,6
+miscellaneous complaint,General,MEDIUM,4
+low water pressure,Water,LOW,6
+voltage fluctuation,Electrical,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+broken sidewalk,Road,LOW,6
+water leakage in street,Water,HIGH,2
+water overflow from tank,Water,HIGH,2
+street light not working,Electrical,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+pipe broken near house,Water,MEDIUM,4
+unknown issue,General,LOW,6
+low water pressure,Water,LOW,6
+sewage overflow,Sanitation,HIGH,2
+drainage blockage,Sanitation,MEDIUM,4
+public problem,General,LOW,6
+cracks on street,Road,MEDIUM,4
+potholes on road,Road,LOW,6
+power failure in area,Electrical,HIGH,2
+low water pressure,Water,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+unknown issue,General,LOW,6
+drainage blockage,Sanitation,LOW,6
+voltage fluctuation,Electrical,MEDIUM,4
+broken sidewalk,Road,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+voltage fluctuation,Electrical,LOW,6
+dustbin not cleaned,Sanitation,LOW,6
+general inquiry,General,LOW,6
+no water supply,Water,LOW,6
+water overflow from tank,Water,HIGH,2
+cracks on street,Road,MEDIUM,4
+electric pole damaged,Electrical,MEDIUM,4
+issue not categorized,General,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+transformer issue,Electrical,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+water leakage in street,Water,HIGH,2
+cracks on street,Road,LOW,6
+cracks on street,Road,LOW,6
+garbage not collected,Sanitation,MEDIUM,4
+voltage fluctuation,Electrical,LOW,6
+pipe broken near house,Water,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+unknown issue,General,MEDIUM,4
+drainage blockage,Sanitation,MEDIUM,4
+garbage not collected,Sanitation,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+no water supply,Water,LOW,6
+wire sparking issue,Electrical,LOW,6
+public problem,General,MEDIUM,4
+potholes on road,Road,MEDIUM,4
+public problem,General,LOW,6
+wire sparking issue,Electrical,MEDIUM,4
+wire sparking issue,Electrical,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+power failure in area,Electrical,HIGH,2
+road water logging,Road,MEDIUM,4
+water leakage in street,Water,HIGH,2
+transformer issue,Electrical,LOW,6
+pipe broken near house,Water,LOW,6
+need help regarding complaint,General,LOW,6
+miscellaneous complaint,General,LOW,6
+miscellaneous complaint,General,LOW,6
+low water pressure,Water,MEDIUM,4
+general inquiry,General,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+broken sidewalk,Road,MEDIUM,4
+broken sidewalk,Road,LOW,6
+miscellaneous complaint,General,LOW,6
+water overflow from tank,Water,HIGH,2
+waste overflow,Sanitation,HIGH,2
+road needs repair,Road,LOW,6
+drainage blockage,Sanitation,MEDIUM,4
+pipe broken near house,Water,MEDIUM,4
+cracks on street,Road,LOW,6
+bad smell in area,Sanitation,LOW,6
+no water supply,Water,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+dustbin not cleaned,Sanitation,LOW,6
+no water supply,Water,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+unknown issue,General,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+dustbin not cleaned,Sanitation,MEDIUM,4
+drainage blockage,Sanitation,LOW,6
+potholes on road,Road,MEDIUM,4
+issue not categorized,General,MEDIUM,4
+need help regarding complaint,General,LOW,6
+waste overflow,Sanitation,HIGH,2
+low water pressure,Water,LOW,6
+sewage overflow,Sanitation,HIGH,2
+potholes on road,Road,MEDIUM,4
+miscellaneous complaint,General,LOW,6
+street light not working,Electrical,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+tap not working,Water,MEDIUM,4
+road needs repair,Road,LOW,6
+broken sidewalk,Road,MEDIUM,4
+need help regarding complaint,General,MEDIUM,4
+road water logging,Road,LOW,6
+sewage overflow,Sanitation,HIGH,2
+waste overflow,Sanitation,HIGH,2
+potholes on road,Road,MEDIUM,4
+water leakage in street,Water,HIGH,2
+issue not categorized,General,MEDIUM,4
+unknown issue,General,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+water overflow from tank,Water,HIGH,2
+water leakage in street,Water,HIGH,2
+pipe broken near house,Water,LOW,6
+no water supply,Water,MEDIUM,4
+garbage not collected,Sanitation,LOW,6
+tap not working,Water,MEDIUM,4
+water leakage in street,Water,HIGH,2
+potholes on road,Road,MEDIUM,4
+wire sparking issue,Electrical,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+street light not working,Electrical,MEDIUM,4
+road water logging,Road,MEDIUM,4
+pipe broken near house,Water,LOW,6
+miscellaneous complaint,General,MEDIUM,4
+no water supply,Water,MEDIUM,4
+water leakage in street,Water,HIGH,2
+waste overflow,Sanitation,HIGH,2
+potholes on road,Road,LOW,6
+power failure in area,Electrical,HIGH,2
+potholes on road,Road,MEDIUM,4
+drainage blockage,Sanitation,LOW,6
+no water supply,Water,LOW,6
+no water supply,Water,LOW,6
+drainage blockage,Sanitation,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+tap not working,Water,MEDIUM,4
+wire sparking issue,Electrical,LOW,6
+road damaged badly,Road,MEDIUM,4
+voltage fluctuation,Electrical,MEDIUM,4
+voltage fluctuation,Electrical,LOW,6
+waste overflow,Sanitation,HIGH,2
+unknown issue,General,MEDIUM,4
+road needs repair,Road,MEDIUM,4
+road water logging,Road,LOW,6
+general inquiry,General,MEDIUM,4
+transformer issue,Electrical,LOW,6
+garbage not collected,Sanitation,LOW,6
+broken sidewalk,Road,MEDIUM,4
+pipe broken near house,Water,LOW,6
+water overflow from tank,Water,HIGH,2
+wire sparking issue,Electrical,MEDIUM,4
+unknown issue,General,LOW,6
+waste overflow,Sanitation,HIGH,2
+street light not working,Electrical,MEDIUM,4
+unknown issue,General,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+road needs repair,Road,LOW,6
+general inquiry,General,LOW,6
+general inquiry,General,MEDIUM,4
+unknown issue,General,MEDIUM,4
+road needs repair,Road,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+potholes on road,Road,LOW,6
+road water logging,Road,LOW,6
+need help regarding complaint,General,LOW,6
+water overflow from tank,Water,HIGH,2
+need help regarding complaint,General,LOW,6
+power failure in area,Electrical,HIGH,2
+water overflow from tank,Water,HIGH,2
+garbage not collected,Sanitation,MEDIUM,4
+potholes on road,Road,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+public problem,General,LOW,6
+miscellaneous complaint,General,LOW,6
+drainage blockage,Sanitation,LOW,6
+drainage blockage,Sanitation,LOW,6
+miscellaneous complaint,General,LOW,6
+garbage not collected,Sanitation,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+dustbin not cleaned,Sanitation,LOW,6
+unknown issue,General,MEDIUM,4
+low water pressure,Water,LOW,6
+broken sidewalk,Road,LOW,6
+garbage not collected,Sanitation,MEDIUM,4
+road needs repair,Road,LOW,6
+dustbin not cleaned,Sanitation,MEDIUM,4
+wire sparking issue,Electrical,LOW,6
+unknown issue,General,LOW,6
+voltage fluctuation,Electrical,LOW,6
+drainage blockage,Sanitation,LOW,6
+wire sparking issue,Electrical,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+water leakage in street,Water,HIGH,2
+garbage not collected,Sanitation,MEDIUM,4
+road water logging,Road,MEDIUM,4
+voltage fluctuation,Electrical,LOW,6
+wire sparking issue,Electrical,MEDIUM,4
+miscellaneous complaint,General,LOW,6
+power failure in area,Electrical,HIGH,2
+cracks on street,Road,LOW,6
+sewage overflow,Sanitation,HIGH,2
+sewage overflow,Sanitation,HIGH,2
+issue not categorized,General,LOW,6
+waste overflow,Sanitation,HIGH,2
+water overflow from tank,Water,HIGH,2
+no water supply,Water,MEDIUM,4
+tap not working,Water,MEDIUM,4
+wire sparking issue,Electrical,LOW,6
+unknown issue,General,LOW,6
+road water logging,Road,LOW,6
+pipe broken near house,Water,LOW,6
+low water pressure,Water,LOW,6
+cracks on street,Road,MEDIUM,4
+pipe broken near house,Water,MEDIUM,4
+general inquiry,General,LOW,6
+street light not working,Electrical,MEDIUM,4
+low water pressure,Water,MEDIUM,4
+voltage fluctuation,Electrical,LOW,6
+broken sidewalk,Road,MEDIUM,4
+need help regarding complaint,General,MEDIUM,4
+road water logging,Road,MEDIUM,4
+general inquiry,General,LOW,6
+pipe broken near house,Water,LOW,6
+general inquiry,General,LOW,6
+cracks on street,Road,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+miscellaneous complaint,General,LOW,6
+water leakage in street,Water,HIGH,2
+no water supply,Water,LOW,6
+road damaged badly,Road,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+road damaged badly,Road,MEDIUM,4
+general inquiry,General,MEDIUM,4
+voltage fluctuation,Electrical,MEDIUM,4
+road needs repair,Road,LOW,6
+transformer issue,Electrical,LOW,6
+sewage overflow,Sanitation,HIGH,2
+waste overflow,Sanitation,HIGH,2
+need help regarding complaint,General,MEDIUM,4
+cracks on street,Road,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+cracks on street,Road,MEDIUM,4
+garbage not collected,Sanitation,MEDIUM,4
+broken sidewalk,Road,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+dustbin not cleaned,Sanitation,LOW,6
+issue not categorized,General,LOW,6
+waste overflow,Sanitation,HIGH,2
+dustbin not cleaned,Sanitation,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+water leakage in street,Water,HIGH,2
+no water supply,Water,MEDIUM,4
+wire sparking issue,Electrical,MEDIUM,4
+no water supply,Water,LOW,6
+issue not categorized,General,LOW,6
+drainage blockage,Sanitation,MEDIUM,4
+cracks on street,Road,MEDIUM,4
+tap not working,Water,MEDIUM,4
+no water supply,Water,LOW,6
+broken sidewalk,Road,MEDIUM,4
+need help regarding complaint,General,LOW,6
+broken sidewalk,Road,LOW,6
+need help regarding complaint,General,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+general inquiry,General,LOW,6
+road damaged badly,Road,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+dustbin not cleaned,Sanitation,MEDIUM,4
+wire sparking issue,Electrical,MEDIUM,4
+drainage blockage,Sanitation,LOW,6
+power failure in area,Electrical,HIGH,2
+water leakage in street,Water,HIGH,2
+water leakage in street,Water,HIGH,2
+road damaged badly,Road,MEDIUM,4
+drainage blockage,Sanitation,LOW,6
+low water pressure,Water,LOW,6
+unknown issue,General,LOW,6
+unknown issue,General,MEDIUM,4
+wire sparking issue,Electrical,LOW,6
+bad smell in area,Sanitation,LOW,6
+broken sidewalk,Road,MEDIUM,4
+broken sidewalk,Road,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+bad smell in area,Sanitation,MEDIUM,4
+dustbin not cleaned,Sanitation,MEDIUM,4
+transformer issue,Electrical,LOW,6
+general inquiry,General,LOW,6
+waste overflow,Sanitation,HIGH,2
+general inquiry,General,MEDIUM,4
+garbage not collected,Sanitation,LOW,6
+drainage blockage,Sanitation,MEDIUM,4
+dustbin not cleaned,Sanitation,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+general inquiry,General,LOW,6
+broken sidewalk,Road,LOW,6
+wire sparking issue,Electrical,MEDIUM,4
+street light not working,Electrical,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+garbage not collected,Sanitation,LOW,6
+waste overflow,Sanitation,HIGH,2
+water leakage in street,Water,HIGH,2
+drainage blockage,Sanitation,LOW,6
+cracks on street,Road,LOW,6
+potholes on road,Road,LOW,6
+cracks on street,Road,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+road needs repair,Road,MEDIUM,4
+voltage fluctuation,Electrical,MEDIUM,4
+garbage not collected,Sanitation,MEDIUM,4
+general inquiry,General,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+no water supply,Water,LOW,6
+miscellaneous complaint,General,LOW,6
+low water pressure,Water,MEDIUM,4
+drainage blockage,Sanitation,LOW,6
+broken sidewalk,Road,LOW,6
+road needs repair,Road,MEDIUM,4
+wire sparking issue,Electrical,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+street light not working,Electrical,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+issue not categorized,General,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+voltage fluctuation,Electrical,MEDIUM,4
+transformer issue,Electrical,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+public problem,General,LOW,6
+no water supply,Water,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+unknown issue,General,MEDIUM,4
+public problem,General,MEDIUM,4
+unknown issue,General,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+general inquiry,General,LOW,6
+road damaged badly,Road,MEDIUM,4
+transformer issue,Electrical,MEDIUM,4
+street light not working,Electrical,MEDIUM,4
+street light not working,Electrical,MEDIUM,4
+general inquiry,General,MEDIUM,4
+broken sidewalk,Road,MEDIUM,4
+general inquiry,General,LOW,6
+water overflow from tank,Water,HIGH,2
+general inquiry,General,LOW,6
+broken sidewalk,Road,LOW,6
+road water logging,Road,LOW,6
+tap not working,Water,MEDIUM,4
+road needs repair,Road,MEDIUM,4
+road needs repair,Road,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+bad smell in area,Sanitation,LOW,6
+general inquiry,General,MEDIUM,4
+dustbin not cleaned,Sanitation,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+waste overflow,Sanitation,HIGH,2
+dustbin not cleaned,Sanitation,LOW,6
+garbage not collected,Sanitation,LOW,6
+tap not working,Water,MEDIUM,4
+low water pressure,Water,MEDIUM,4
+no water supply,Water,LOW,6
+water leakage in street,Water,HIGH,2
+no water supply,Water,LOW,6
+potholes on road,Road,MEDIUM,4
+electric pole damaged,Electrical,MEDIUM,4
+public problem,General,LOW,6
+drainage blockage,Sanitation,LOW,6
+voltage fluctuation,Electrical,LOW,6
+road damaged badly,Road,MEDIUM,4
+miscellaneous complaint,General,LOW,6
+road damaged badly,Road,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+unknown issue,General,MEDIUM,4
+issue not categorized,General,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+issue not categorized,General,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+general inquiry,General,MEDIUM,4
+public problem,General,LOW,6
+bad smell in area,Sanitation,LOW,6
+no water supply,Water,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+drainage blockage,Sanitation,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+road water logging,Road,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+pipe broken near house,Water,LOW,6
+unknown issue,General,MEDIUM,4
+road water logging,Road,MEDIUM,4
+cracks on street,Road,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+wire sparking issue,Electrical,MEDIUM,4
+voltage fluctuation,Electrical,LOW,6
+tap not working,Water,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+road water logging,Road,MEDIUM,4
+voltage fluctuation,Electrical,LOW,6
+road water logging,Road,MEDIUM,4
+garbage not collected,Sanitation,MEDIUM,4
+no water supply,Water,MEDIUM,4
+need help regarding complaint,General,LOW,6
+need help regarding complaint,General,MEDIUM,4
+electric pole damaged,Electrical,MEDIUM,4
+pipe broken near house,Water,MEDIUM,4
+road water logging,Road,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+road water logging,Road,LOW,6
+wire sparking issue,Electrical,LOW,6
+road needs repair,Road,LOW,6
+no water supply,Water,LOW,6
+no water supply,Water,MEDIUM,4
+need help regarding complaint,General,MEDIUM,4
+general inquiry,General,MEDIUM,4
+transformer issue,Electrical,MEDIUM,4
+transformer issue,Electrical,LOW,6
+need help regarding complaint,General,MEDIUM,4
+broken sidewalk,Road,MEDIUM,4
+broken sidewalk,Road,LOW,6
+potholes on road,Road,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+pipe broken near house,Water,MEDIUM,4
+potholes on road,Road,LOW,6
+power failure in area,Electrical,HIGH,2
+road needs repair,Road,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+street light not working,Electrical,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+need help regarding complaint,General,LOW,6
+issue not categorized,General,LOW,6
+pipe broken near house,Water,LOW,6
+road damaged badly,Road,MEDIUM,4
+no water supply,Water,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+general inquiry,General,MEDIUM,4
+tap not working,Water,MEDIUM,4
+road needs repair,Road,LOW,6
+road needs repair,Road,MEDIUM,4
+pipe broken near house,Water,LOW,6
+need help regarding complaint,General,MEDIUM,4
+dustbin not cleaned,Sanitation,MEDIUM,4
+road needs repair,Road,LOW,6
+wire sparking issue,Electrical,LOW,6
+drainage blockage,Sanitation,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+sewage overflow,Sanitation,HIGH,2
+street light not working,Electrical,MEDIUM,4
+no water supply,Water,LOW,6
+water overflow from tank,Water,HIGH,2
+need help regarding complaint,General,LOW,6
+garbage not collected,Sanitation,LOW,6
+pipe broken near house,Water,MEDIUM,4
+miscellaneous complaint,General,LOW,6
+water leakage in street,Water,HIGH,2
+power failure in area,Electrical,HIGH,2
+dustbin not cleaned,Sanitation,LOW,6
+sewage overflow,Sanitation,HIGH,2
+water leakage in street,Water,HIGH,2
+cracks on street,Road,LOW,6
+broken sidewalk,Road,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+road water logging,Road,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+pipe broken near house,Water,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+garbage not collected,Sanitation,LOW,6
+general inquiry,General,MEDIUM,4
+issue not categorized,General,LOW,6
+drainage blockage,Sanitation,MEDIUM,4
+public problem,General,LOW,6
+wire sparking issue,Electrical,MEDIUM,4
+tap not working,Water,MEDIUM,4
+road needs repair,Road,LOW,6
+road water logging,Road,MEDIUM,4
+general inquiry,General,MEDIUM,4
+transformer issue,Electrical,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+issue not categorized,General,LOW,6
+water overflow from tank,Water,HIGH,2
+public problem,General,LOW,6
+no water supply,Water,LOW,6
+need help regarding complaint,General,LOW,6
+issue not categorized,General,MEDIUM,4
+drainage blockage,Sanitation,LOW,6
+low water pressure,Water,LOW,6
+water overflow from tank,Water,HIGH,2
+pipe broken near house,Water,LOW,6
+issue not categorized,General,LOW,6
+water leakage in street,Water,HIGH,2
+low water pressure,Water,MEDIUM,4
+garbage not collected,Sanitation,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+voltage fluctuation,Electrical,LOW,6
+water leakage in street,Water,HIGH,2
+general inquiry,General,LOW,6
+bad smell in area,Sanitation,LOW,6
+broken sidewalk,Road,MEDIUM,4
+need help regarding complaint,General,LOW,6
+waste overflow,Sanitation,HIGH,2
+issue not categorized,General,MEDIUM,4
+tap not working,Water,MEDIUM,4
+no water supply,Water,MEDIUM,4
+road water logging,Road,LOW,6
+no water supply,Water,LOW,6
+power failure in area,Electrical,HIGH,2
+voltage fluctuation,Electrical,LOW,6
+garbage not collected,Sanitation,MEDIUM,4
+transformer issue,Electrical,MEDIUM,4
+miscellaneous complaint,General,MEDIUM,4
+tap not working,Water,MEDIUM,4
+water leakage in street,Water,HIGH,2
+general inquiry,General,MEDIUM,4
+public problem,General,LOW,6
+issue not categorized,General,LOW,6
+bad smell in area,Sanitation,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+unknown issue,General,LOW,6
+voltage fluctuation,Electrical,LOW,6
+no water supply,Water,LOW,6
+public problem,General,LOW,6
+pipe broken near house,Water,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+road water logging,Road,MEDIUM,4
+road needs repair,Road,LOW,6
+transformer issue,Electrical,LOW,6
+broken sidewalk,Road,MEDIUM,4
+broken sidewalk,Road,LOW,6
+tap not working,Water,MEDIUM,4
+unknown issue,General,LOW,6
+water overflow from tank,Water,HIGH,2
+broken sidewalk,Road,LOW,6
+general inquiry,General,MEDIUM,4
+wire sparking issue,Electrical,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+water overflow from tank,Water,HIGH,2
+need help regarding complaint,General,LOW,6
+drainage blockage,Sanitation,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+street light not working,Electrical,MEDIUM,4
+pipe broken near house,Water,LOW,6
+power failure in area,Electrical,HIGH,2
+public problem,General,LOW,6
+public problem,General,MEDIUM,4
+wire sparking issue,Electrical,LOW,6
+electric pole damaged,Electrical,MEDIUM,4
+unknown issue,General,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+bad smell in area,Sanitation,LOW,6
+voltage fluctuation,Electrical,LOW,6
+water leakage in street,Water,HIGH,2
+road needs repair,Road,MEDIUM,4
+waste overflow,Sanitation,HIGH,2
+transformer issue,Electrical,MEDIUM,4
+broken sidewalk,Road,LOW,6
+issue not categorized,General,LOW,6
+road water logging,Road,MEDIUM,4
+pipe broken near house,Water,LOW,6
+no water supply,Water,MEDIUM,4
+tap not working,Water,MEDIUM,4
+drainage blockage,Sanitation,MEDIUM,4
+sewage overflow,Sanitation,HIGH,2
+miscellaneous complaint,General,MEDIUM,4
+dustbin not cleaned,Sanitation,LOW,6
+issue not categorized,General,MEDIUM,4
+dustbin not cleaned,Sanitation,MEDIUM,4
+issue not categorized,General,LOW,6
+garbage not collected,Sanitation,MEDIUM,4
+power failure in area,Electrical,HIGH,2
+dustbin not cleaned,Sanitation,LOW,6
+transformer issue,Electrical,LOW,6
+road water logging,Road,LOW,6
+unknown issue,General,MEDIUM,4
+tap not working,Water,MEDIUM,4
+road damaged badly,Road,MEDIUM,4
+road needs repair,Road,MEDIUM,4
+general inquiry,General,MEDIUM,4
+bad smell in area,Sanitation,MEDIUM,4

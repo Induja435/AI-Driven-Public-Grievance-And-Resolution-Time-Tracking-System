@@ -1,0 +1,283 @@
+/* ADMIN CONTAINER */
+.admin-container {
+  min-height: 100vh;
+  padding: 60px 40px;
+  color: #0b1f3a;
+  font-family: var(--font-primary);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background: #f8fafc;
+}
+
+/* HEADER */
+.admin-header {
+  font-family: var(--font-display);
+  font-size: 38px;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  text-align: center;
+  color: #d4af37;
+  margin-bottom: 35px;
+}
+
+/* NAVIGATION */
+.admin-nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 40px;
+  background: #ffffff;
+  padding: 6px;
+  border-radius: 40px;
+  align-self: center;
+  border: 1px solid #e2e8f0;
+}
+
+.admin-nav button {
+  padding: 10px 24px;
+  background: transparent;
+  color: #64748b;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+  font-family: var(--font-primary);
+  transition: 0.3s ease;
+}
+
+.admin-nav button:hover {
+  color: #d4af37;
+  background: #f8fafc;
+}
+
+.admin-nav button.active-tab {
+  background: linear-gradient(
+    135deg,
+    #d4af37,
+    #f1c40f
+  );
+  color: #0b1f3a;
+}
+
+/* FILTERS */
+.filters {
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+
+.filters select {
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+  background: white;
+  color: #0b1f3a;
+  outline: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.filters select:focus {
+  border-color: #d4af37;
+}
+
+.filters select option {
+  background: white;
+  color: #0b1f3a;
+}
+
+/* CONTENT */
+.admin-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* CARD */
+.admin-card {
+  background: #ffffff;
+  border-left: 5px solid #d4af37;
+  padding: 25px 30px;
+  border-radius: 16px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.admin-card p {
+  color: #64748b;
+  font-size: 14px;
+}
+
+.admin-card p.complaint-text {
+  font-size: 16px;
+  color: #0b1f3a;
+  font-weight: 500;
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
+
+/* ACTION BUTTONS */
+.admin-actions {
+  margin-top: 15px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.admin-actions button {
+  background: #0b1f3a;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.admin-actions button:hover {
+  background: #d4af37;
+  color: #0b1f3a;
+}
+
+/* STATUS */
+.admin-card .admin-status-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+  color: #0b1f3a;
+}
+
+/* CHART */
+.chart-full {
+  width: 100%;
+  max-width: 900px;
+  height: 500px;
+  margin: 20px auto 0;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 20px;
+  padding: 30px 20px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+/* OVERDUE LIST */
+.overdue-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.overdue-item {
+  background: #fff1f2;
+  border: 1px solid #fecdd3;
+  padding: 20px 25px;
+  border-radius: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.overdue-item p {
+  color: #0b1f3a;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.overdue-item span {
+  background: #ffe4e6;
+  color: #e11d48;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+/* PAGINATION */
+.pagination {
+  text-align: center;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.pagination button {
+  padding: 10px 22px;
+  border: none;
+  background: #0b1f3a;
+  color: white;
+  border-radius: 30px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.pagination button:hover:not(:disabled) {
+  background: #d4af37;
+  color: #0b1f3a;
+}
+
+.pagination button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.pagination span {
+  font-size: 15px;
+  color: #64748b;
+  font-weight: 500;
+}
+
+/* LOGOUT */
+.logout-section {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.logout-section button {
+  background: #dc2626;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  border-radius: 30px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.logout-section button:hover {
+  background: #b91c1c;
+}
+
+.loading {
+  text-align: center;
+  font-size: 18px;
+  color: #64748b;
+  padding: 100px 0;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .admin-container {
+    padding: 40px 20px;
+  }
+
+  .admin-nav {
+    flex-wrap: wrap;
+    border-radius: 20px;
+  }
+}

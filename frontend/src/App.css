@@ -1,0 +1,51 @@
+/* APP ROOT */
+.App {
+  min-height: 100vh;
+  background: #f8fafc;
+  color: #111827;
+}
+
+/* OPTIONAL: REACT LOGO */
+.App-logo {
+  height: 120px;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin 20s linear infinite;
+  }
+}
+
+/* OPTIONAL HEADER */
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #f8fafc;
+  color: #111827;
+}
+
+/* LINKS */
+.App-link {
+  color: #7c3aed;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.App-link:hover {
+  color: #6d28d9;
+}
+
+/* LOGO ANIMATION */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
